@@ -3,7 +3,7 @@
 
 #include "RTClib.h"
 
-#define RTCLIB_WIRE Wire
+#define RTCLIB_WIRE Wire1
 
 #ifndef BUFFER_LENGTH
   #define BUFFER_LENGTH 32
